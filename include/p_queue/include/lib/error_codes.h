@@ -1,0 +1,8 @@
+#ifndef ERROR_CODES_H
+
+#define ERROR_CODES_H
+
+#define BAD_ALLOCATION_ERROR -1
+#define POP_FROM_EMPTY_QUEUE_ERROR -2
+
+#endif
